@@ -21,3 +21,5 @@ Example usage:
     -----> Found a slot.js
 
 The buildpack will detect that your app has a `slot.js` in the root. If this file has contents, it will be copied to `slot-run.js`.
+
+Add tags
